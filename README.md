@@ -1,4 +1,49 @@
+<h1 align="center">Hi 👋, I'm Anuj Dubey</h1>
+<h3 align="center">Python | Machine Learning | Generative AI Learner</h3>
 
+---
+
+### 👨‍💻 Professional Summary
+I am a passionate learner focused on **Python, Data Science, Machine Learning, and Generative AI**.  
+Currently improving my skills in **data analysis, visualization, and AI tools**.
+
+---
+
+### 🧠 Skills
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Statistics  
+- Machine Learning  
+- Generative AI  
+- Microsoft Excel  
+
+---
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=python,vscode,pycharm" />
+</p>
+
+- Anaconda Navigator  
+- Microsoft Excel  
+- Power BI  
+- Google Colab 
+
+---
+
+### 🎯 Current Learning Goals
+- Improve Python programming  
+- Build Machine Learning models  
+- Explore Generative AI  
+- Work on Data Science projects  
+
+---
+
+### 🔗 GitHub Profile
+https://github.com/anujd1432
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-dubey-9804a3358) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Its.annu1438) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujd5310@gmail.com) 
 
